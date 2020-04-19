@@ -1,0 +1,6 @@
+framework module ToolDemo {
+  umbrella header "ToolDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

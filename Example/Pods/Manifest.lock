@@ -1,0 +1,16 @@
+PODS:
+  - ToolDemo (0.1.0)
+
+DEPENDENCIES:
+  - ToolDemo (from `../`)
+
+EXTERNAL SOURCES:
+  ToolDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ToolDemo: 62c4219baa8bdb5144900d74771841f46dffbe33
+
+PODFILE CHECKSUM: 899df194adfb83ed45794ab742c1da9619f278c5
+
+COCOAPODS: 1.6.0.beta.1
