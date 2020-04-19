@@ -22,7 +22,7 @@ pod 'ToolDemo'
 
 ## Author
 
-151016zkq, zhangkaiqiang@16lao.com
+151016zkq, 1510166838@qq.com
 
 ## License
 
